@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# What I do
+## What I do
 
 * I build simple static websites.
 
