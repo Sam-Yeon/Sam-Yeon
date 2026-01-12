@@ -1,5 +1,36 @@
 ## Hi there 👋
 
+> **What I do**
+
+I build simple static websites.
+
+I write small programs here and there.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Sam-Yeon/Sam-Yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
