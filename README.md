@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-> **What I do**
+# What I do
 
-I build simple static websites.
+* I build simple static websites.
 
-I write small programs here and there.
+* I write small programs here and there.
 
 
 
