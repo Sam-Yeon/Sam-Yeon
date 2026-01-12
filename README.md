@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm Sam — a minimal coder who's still learning and figuring things out. My desired IDE is VS Code.
+I'm Sam — a minimal coder who's still learning and figuring things out. 
+My desired Integrated Development Environment (IDE) is VS Code.
 
 ## What I do
 
@@ -10,7 +11,7 @@ I'm Sam — a minimal coder who's still learning and figuring things out. My des
 ## What I'm learning
 I'm currently learning to become a front-end web developer. At the same time I take a strong interest in the cybersecurity domain, especially the penetration testing field.
 
-Right now, I have a little knowledge of:
+My current knowledge base includes:
 
 * Ports and basic cybersecurity concepts
 * HTML, CSS, and JavaScript
