@@ -1,13 +1,20 @@
 # Hi there 👋
+I'm Sam — a minimal coder who's still learning and figuring things out. My desired IDE is VS Code.
 
 ## What I do
 
 * I build simple static websites.
+* I write small script and programs here and there.
+* Create Extensions for Browsers.
 
-* I write small programs here and there.
+## What I'm learning
+I'm currently learning to become a front-end web developer. At the same time I take a strong interest in the cybersecurity domain, especially the penetration testing field.
 
+Right now, I have a little knowledge of:
 
-
+* Ports and basic cybersecurity concepts
+* HTML, CSS, and JavaScript
+* Python (beginner level)
 
 
 
